@@ -1,1 +1,10 @@
-![WhatsApp Image 2026-03-18 at 4 12 05 PM](https://github.com/user-attachments/assets/c983d836-b736-4b3f-be2d-317c946e4a2a)
+Output
+![Home](https://github.com/user-attachments/assets/7b064a83-778c-4432-92c6-9d7b87c92842)
+![Register](https://github.com/user-attachments/assets/4723c7bd-6b81-42c3-95f1-65da4ca0ea96)
+![Login](https://github.com/user-attachments/assets/9f7eb76a-d73d-43f1-9deb-793ed07d696f)
+![Dashboard](https://github.com/user-attachments/assets/d8d2b9a8-4467-4bae-8faf-c03637b01ed3)
+![Available Courses](https://github.com/user-attachments/assets/0467cde6-8867-490f-9f73-9f76f13f4412)
+![Checkout](https://github.com/user-attachments/assets/3c49b2b1-6d34-40d9-b543-7df1f564b9db)
+![MyCourses](https://github.com/user-attachments/assets/2d99f5e5-2e06-4834-b623-81c12b2961af)
+![Course](https://github.com/user-attachments/assets/f9d14601-1997-4fdb-a131-073e0863b692)
+![Certificate](https://github.com/user-attachments/assets/7984c152-f857-4ee9-9bd1-4ed14194d23f)
