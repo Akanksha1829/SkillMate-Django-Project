@@ -1,10 +1,12 @@
 <h1>Output</h1>
-![Home](https://github.com/user-attachments/assets/7b064a83-778c-4432-92c6-9d7b87c92842)
-![Register](https://github.com/user-attachments/assets/4723c7bd-6b81-42c3-95f1-65da4ca0ea96)
-![Login](https://github.com/user-attachments/assets/9f7eb76a-d73d-43f1-9deb-793ed07d696f)
-![Dashboard](https://github.com/user-attachments/assets/d8d2b9a8-4467-4bae-8faf-c03637b01ed3)
-![Available Courses](https://github.com/user-attachments/assets/0467cde6-8867-490f-9f73-9f76f13f4412)
-![Checkout](https://github.com/user-attachments/assets/3c49b2b1-6d34-40d9-b543-7df1f564b9db)
-![MyCourses](https://github.com/user-attachments/assets/2d99f5e5-2e06-4834-b623-81c12b2961af)
-![Course](https://github.com/user-attachments/assets/f9d14601-1997-4fdb-a131-073e0863b692)
-![Certificate](https://github.com/user-attachments/assets/7984c152-f857-4ee9-9bd1-4ed14194d23f)
+
+![Home](https://github.com/user-attachments/assets/91344618-8c2b-4e6e-8a10-9fe47bb40de9)
+
+![Register](https://github.com/user-attachments/assets/6e86ca87-0638-4ec6-9b3d-ac4bba8704f1)
+![Login](https://github.com/user-attachments/assets/a806ab54-7471-4474-89e9-3d00109c02d3)![Dashboard](https://github.com/user-attachments/assets/a7392d36-4de7-44f6-bd33-045ff48f2631)![MyCourses](https://github.com/user-attachments/assets/904ba76c-dca8-4cb2-8828-ecf799096de2)
+![Certificate](https://github.com/user-attachments/assets/d3eaa1f3-bbd7-47a4-961e-2cc1cb1b29c8)
+
+![Available Courses](https://github.com/user-atta![Course](https://github.com/user-attachments/assets/c505c98a-0a4d-4076-b90c-4093c296ee11)
+chments/assets/ad13fee0-271d-4f4c-9da9-5e0ed8e1691a)
+![Checkout](https://github.com/user-attachments/assets/18b5bdd6-4820-4da1-87e3-61415e35ca8d)
+
