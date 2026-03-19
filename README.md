@@ -1,4 +1,4 @@
-<h1>Output</h1>
+# Output
 
 ![Home](https://github.com/user-attachments/assets/91344618-8c2b-4e6e-8a10-9fe47bb40de9)
 ![Register](https://github.com/user-attachments/assets/6e86ca87-0638-4ec6-9b3d-ac4bba8704f1)
