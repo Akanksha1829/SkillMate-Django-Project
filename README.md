@@ -1,4 +1,4 @@
-Output
+<h1>Output</h1>
 ![Home](https://github.com/user-attachments/assets/7b064a83-778c-4432-92c6-9d7b87c92842)
 ![Register](https://github.com/user-attachments/assets/4723c7bd-6b81-42c3-95f1-65da4ca0ea96)
 ![Login](https://github.com/user-attachments/assets/9f7eb76a-d73d-43f1-9deb-793ed07d696f)
